@@ -1,0 +1,3 @@
+D:/Projects/Check Whether Number is Even or Odd/cmake-build-debug/CMakeFiles/Check_Whether_Number_is_Even_or_Odd.dir
+D:/Projects/Check Whether Number is Even or Odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/Check Whether Number is Even or Odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
